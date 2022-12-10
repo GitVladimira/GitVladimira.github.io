@@ -1,0 +1,11 @@
+.main{
+  background: linear-gradient(90deg, rgb(116, 162, 190) 0%, rgb(66, 186, 186) 10%, rgba(195,246,255,1) 49%, rgba(66, 186, 186) 90%, rgba(116, 162, 190) 100%);
+
+  /*background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,121,1) 10%, rgba(195,246,255,1) 49%, rgba(9,121,121,1) 90%, rgba(0,0,0,1) 100%);
+*/
+}
+
+.logosHeader{
+  display: block;
+  margin: 0 auto;
+}
