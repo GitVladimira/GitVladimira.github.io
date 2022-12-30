@@ -78,9 +78,9 @@ img{
 /* header start */
 #header{
   padding: 20px 0;
-  border-bottom: 2px solid #0d9be76e;
+  border-bottom: 2px solid #0000006e;
   background-color: #fff;
-  box-shadow: 0 3px 20px rgba(239, 255, 67, 0.573);
+  box-shadow: 0 3px 20px rgba(67, 152, 255, 0.573);
   position:fixed;
   width: 100%;
   top: 0;
@@ -138,7 +138,7 @@ img{
 .start-date{
   width: 100px;
   height: 100px;
-  background-color: yellow;
+  background-color: rgb(247, 247, 245);
   color: black;
   font-size: 16px;
   border-radius: 50PX;
